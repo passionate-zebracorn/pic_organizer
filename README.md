@@ -6,10 +6,15 @@ To use this just grab it and run. You may be missing some dependencies, mainly P
 For this to work you should have a directory structure like below:
 
 D:\pics
+
   D:\pics\2009
+  
   D:\pics\2010
+  
   D:\pics\2011
+  
   D:\pics\2012
+  
   etc...
 
 Then the base path when asked is D:\pics
